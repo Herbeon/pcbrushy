@@ -11,9 +11,13 @@ falstad simulation link: https://www.falstad.com/s.php?s=VXZuTE
 ![screenshot of the 3d view, back](3dpcb1.png)
 
 # features
-Since it was my first time I wanted to keep it simple. the main thing is a 555 timer that flashes 2 LEDs. There is also an LED + photoresistor so it glows in the dark. And a push button at the beginning of the circuit.
+* Since it was my first time I wanted to keep it simple
+* the main thing is a 555 timer that flashes 2 LEDs
+* There is also an LED + photoresistor so there's more light in the dark
+* and a push button at the beginning of the circuit.
+* Also has silkscreen art by me on Krita :D and a bit of FR4 art. didn't have time to figure out copper loll
+
 I would have liked to add something to do with the motor (a lil buzz fidget or something) but that didn't happen rip. also the transistors are cool I just couldn't figure out what to do with them.
-Also has silkscreen art by me on Krita :D and a bit of FR4 art. didn't have time to figure out copper loll
 
 # BOM
 | item | amount |
