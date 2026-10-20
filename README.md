@@ -13,7 +13,7 @@ falstad simulation link: https://www.falstad.com/s.php?s=VXZuTE
 # features
 * Since it was my first time I wanted to keep it simple
 * the main thing is a 555 timer that flashes 2 LEDs
-* There is also an LED + photoresistor so there's more light in the dark
+* There is also an LED + photoresistor so there's more light when it's...bright (I thought it went the other way around while I was making this oops)
 * and a push button at the beginning of the circuit.
 * Also has silkscreen art by me on Krita :D and a bit of FR4 art. didn't have time to figure out copper loll
 
