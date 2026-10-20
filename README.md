@@ -24,3 +24,6 @@ I would have liked to add something to do with the motor (a lil buzz fidget or s
 | LED | 3 |
 | push button | 1 |
 | 555 timer | 1 |
+
+
+made by Herby on slack for [Hack club solder!](https://solder.hackclub.com/)
